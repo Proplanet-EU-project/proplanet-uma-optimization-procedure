@@ -1,5 +1,12 @@
 # Optimization Procedure
 
+Here you will find the final software delivery (**Deliverable D5.5**), structured into **4 interconnected repositories** that compose the complete solution:
+
+* **[Replication Tool Core](https://github.com/Proplanet-EU-project/proplanet-replication-tool):** The main web application.
+* **[SimpleBox4Planet](https://github.com/NovaMechanicsOpenSource/SimpleBox4Planet):** Environmental fate module.
+* **[Lung Deposition](https://github.com/NovaMechanicsOpenSource/lungdeposition):** Exposure assessment module.
+* **Optimization Engine:** Optimization algorithms (UMA).
+
 Code for optimizing from UMA side
 
 ## Setup
